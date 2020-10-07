@@ -9,12 +9,14 @@ number of books present,number of different stationary goods and their quantity 
 This system provides assurance of proper accuracy and efficiency there by calculating a discount after entering all the wanted list of the user or customer .
 
 Features :
-a.	The program is written for searching in string , so that when the customer will enter the name of the book required,that particular book can be searched in the string present.
-b.	The program also tells the shopkeeper about the objects which are insufficient in number.
-c.	And also as the items will be purchased its quantity will be subtracted from the present stock.
-d.	The program also has added membership in this program to know the regular and new customers..eg whether the customer is a regular customer or new.
+
+● The program is written for searching in string , so that when the customer will enter the name of the book required,that particular book can be searched in the string present.
+● The program also tells the shopkeeper about the objects which are insufficient in number.
+● And also as the items will be purchased its quantity will be subtracted from the present stock.
+● The program also has added membership in this program to know the user is regular customer or a new customers to the store .
 
 This program will provide basic idea about:
+
  1.The stationary items present in the shop
  2.And their price 
  3.The number of items present and purchased 
