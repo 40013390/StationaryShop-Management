@@ -6,7 +6,7 @@ Test Plan :
    The purpose of software testing is to identify errors, gaps or missing requirements in contrast to actual requirements.
    Some prefer saying Software testing as a White Box and Black Box Testing.
 
-Functions to be tested :
+Features to be tested :
 
   1. Verify which option is selected from menu (from customer as option selection as 0 or 1).
   2. If 1 is selected from menu get which number is chosen (ie., customer has choice to select options 1,2,3 further)
