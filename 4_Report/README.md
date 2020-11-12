@@ -1,5 +1,4 @@
-# Problem Statement:
-              
+          
   The purpose of this project is to generate Time and Date using Graphics in C and Automatically sync with the System Date and Time
   
 # Description:
