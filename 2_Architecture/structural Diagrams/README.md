@@ -1,4 +1,5 @@
-Structural Digrams :
+STRUCTURAL DIAGRAMS :
+
 
   Structural diagrams depict the elements of a system that are independent of time and that convey the concepts of a system and how they relate to each other. 
   
