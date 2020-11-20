@@ -87,6 +87,7 @@ The behavioral diagrams are categorized as follows :
  Activity diagrams are used for modeling −
      
      workflows as viewed by actors, interacting with the system.
+     
      details of operations or computations using flowcharts.      
         
         
