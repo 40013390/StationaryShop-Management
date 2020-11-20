@@ -36,11 +36,13 @@ The behavioral diagrams are categorized as follows :
 
     Interaction diagrams depict interactions of objects and their relationships. 
     
-    They also include the messages passed between them. Interaction diagrams are used for modeling
+    They also include the messages passed between them. 
     
-    − the control flow by time ordering using sequence diagrams.
+    Interaction diagrams are used for modeling :
+    
+        - the control flow by time ordering using sequence diagrams.
 
-    - the control flow of organization using collaboration diagrams.
+        - the control flow of organization using collaboration diagrams.
     
     There are two types of interaction diagrams −
 
@@ -58,8 +60,11 @@ The behavioral diagrams are categorized as follows :
   State–Chart Diagrams comprise of −
 
         States: Simple or Composite
+        
         Transitions between states
+        
         Events causing transitions
+        
         Actions due to the events
   
   State-chart diagrams are used for modeling objects which are reactive in nature.
@@ -74,7 +79,9 @@ The behavioral diagrams are categorized as follows :
   Activity diagrams comprise of −
 
       Activity states and action states
+      
       Transitions 
+      
       Objects
  
  Activity diagrams are used for modeling −
