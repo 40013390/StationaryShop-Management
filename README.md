@@ -19,3 +19,4 @@ After that, he/she should enter the quantity of selected items then the system d
 The system does not create an external file to store the user’s data permanently.
 
 Stationary Shop Management system is developed using C Programming Language and different variables, strings have been used for the development of it.
+![Unit testing](https://github.com/stepin104635/StationaryShop-Management/workflows/Unit%20testing/badge.svg)
