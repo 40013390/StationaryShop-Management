@@ -5,11 +5,11 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/parking_operation.c\
+src/Stationary.c\
 
 # All test source files
-TEST_SRC = src/parking_operation.c\
-test/test_parking_operation.c
+TEST_SRC = src/Stationary.c\
+test/test_Stationary.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
